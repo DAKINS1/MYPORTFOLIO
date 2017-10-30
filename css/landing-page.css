@@ -1,7 +1,7 @@
 body, html {
   width: 100%;
   height: 100%;
-  background: url(../img/paper.jpg);
+  background: url(../img/paper.JPG);
   background-size: cover;
 }
 
@@ -137,7 +137,10 @@ a #email {
   width: 200px;
   border-top: 3px solid #e7e7e7;
 }
+.list-inline-item {
+  margin-left: -5px;
 
+}
 #homefooter{
   padding-top: 4%;
   padding-bottom: 5%;

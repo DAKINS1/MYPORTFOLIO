@@ -90,6 +90,9 @@ body, h1, h2, h3, h4, h5, h6 {
     width: 100%;
   }
 
+#mydrawing {
+  width: 80%;
+}
   .intro-message {
     padding-bottom: 15%;
   }
@@ -103,6 +106,9 @@ a #email {
   .intro-divider {
     width: 100%;
   }
+}
+ul#navigationbar {
+  margin-left: -10px;
 }
 
 .network-name {
